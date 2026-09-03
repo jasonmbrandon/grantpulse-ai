@@ -1,0 +1,83 @@
+{
+  "timestamp": "2026-09-03T00:47:32.343683",
+  "company_name": "BioSynth AI",
+  "domain_topic": "AI protein folding for targeted drug discovery",
+  "monitored_pillars": {
+    "Federal": "Grants.gov & SBIR.gov (NIH, NSF, DOD AFWERX, DARPA, DOE, NASA)",
+    "State": "State Economic Development Funds (CalSEED, NYSERDA, Texas Enterprise)",
+    "Foundation": "Philanthropic Foundations (Gates Foundation, Wellcome Trust, CZI)",
+    "Corporate": "Corporate Innovation Grants (Google, AWS, NVIDIA Inception)",
+    "International": "Global Grants (Horizon Europe, EIC Accelerator, Innovate UK)"
+  },
+  "total_matches": 6,
+  "highest_match_score": "97.4%",
+  "active_solicitations": [
+    {
+      "solicitation_id": "NIH-PA-27-100",
+      "pillar": "Federal SBIR Parent FOA",
+      "agency": "NIH / CDC / FDA (Omnibus Solicitations)",
+      "program_name": "NIH Small Business Innovation Research Grant (Parent SBIR R43/R44)",
+      "max_funding": "$300,000",
+      "deadline": "2026-09-05",
+      "match_percentage": 97.4,
+      "tier_required": "Starter / Growth",
+      "orcid_id_required": true,
+      "description": "FY2026 Parent Omnibus Solicitation for investigator-initiated AI diagnostics, protein folding, and biomedical innovation."
+    },
+    {
+      "solicitation_id": "NSF-SEED-2026-04B",
+      "pillar": "Federal SBIR",
+      "agency": "NSF (National Science Foundation)",
+      "program_name": "NSF America's Seed Fund: Biological & Chemical Technologies",
+      "max_funding": "$275,000",
+      "deadline": "2026-10-15",
+      "match_percentage": 94.2,
+      "tier_required": "Starter",
+      "description": "Focuses on high-risk, high-impact unproven technology concepts with strong commercialization potential."
+    },
+    {
+      "solicitation_id": "CALSEED-2026-ROUND2",
+      "pillar": "State Grant",
+      "agency": "California Energy Commission (CalSEED)",
+      "program_name": "CalSEED Clean Tech Innovation Prototype Grant",
+      "max_funding": "$150,000",
+      "deadline": "2026-09-28",
+      "match_percentage": 92.5,
+      "tier_required": "Starter",
+      "description": "Non-dilutive grant funding for early-stage California clean energy & bio-tech startups."
+    },
+    {
+      "solicitation_id": "GATES-GCE-2026-AI",
+      "pillar": "Philanthropic Foundation",
+      "agency": "Bill & Melinda Gates Foundation",
+      "program_name": "Grand Challenges Explorations: AI for Global Health",
+      "max_funding": "$100,000",
+      "deadline": "2026-10-10",
+      "match_percentage": 94.0,
+      "tier_required": "Growth / Enterprise",
+      "description": "Accelerates deployment of scalable AI diagnostic & protein models for low-resource health settings."
+    },
+    {
+      "solicitation_id": "GOOGLE-AI-STARTUPS-2026",
+      "pillar": "Corporate Innovation",
+      "agency": "Google for Startups & Cloud Grants",
+      "program_name": "Google AI Infrastructure & Compute Grant",
+      "max_funding": "$350,000",
+      "deadline": "2026-10-30",
+      "match_percentage": 95.1,
+      "tier_required": "Growth",
+      "description": "Provides $350k in direct cloud compute credits, TPU access, and AI engineering mentorship."
+    },
+    {
+      "solicitation_id": "EIC-ACCELERATOR-2026-DEEPTECH",
+      "pillar": "International",
+      "agency": "European Innovation Council (EIC)",
+      "program_name": "EIC Accelerator DeepTech & Biotech Challenge",
+      "max_funding": "$2,500,000",
+      "deadline": "2026-11-15",
+      "match_percentage": 88.7,
+      "tier_required": "Enterprise",
+      "description": "Non-dilutive grant funding up to \u20ac2.5M combined with direct equity co-investment options."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-09-03T00:47:36.056349",
+  "company_name": "BioSynth AI",
+  "grant_award_title": "NIH SBIR Phase I Grant",
+  "total_awarded_amount": "$275,000",
+  "cumulative_budget_drawn": "$137,500",
+  "remaining_grant_balance": "$137,500",
+  "phase_ii_escalation_eligibility": "ON TRACK FOR PHASE II FAST-TRACK",
+  "milestone_roadmap": [
+    {
+      "quarter": "Q1 (Months 1-3)",
+      "milestone_name": "Aim 1: Prototype Model & Baseline Validation",
+      "status": "COMPLETED & AUDITED",
+      "deliverable": "Model benchmark report achieving >95% target accuracy.",
+      "budget_drawn": "$68,750",
+      "sf425_financial_report": "FILED & ACCEPTED (2026-06-30)",
+      "next_due_date": "Completed"
+    },
+    {
+      "quarter": "Q2 (Months 4-6)",
+      "milestone_name": "Aim 2: Throughput & Inference Latency Optimization",
+      "status": "IN PROGRESS (ON SCHEDULE)",
+      "deliverable": "Simulated laboratory benchmark under 200ms latency.",
+      "budget_drawn": "$68,750",
+      "sf425_financial_report": "PENDING QUARTER END (DUE 2026-09-30)",
+      "next_due_date": "2026-09-30"
+    },
+    {
+      "quarter": "Q3 (Months 7-9)",
+      "milestone_name": "Aim 3: Commercial Efficacy Pilot & Partner Validation",
+      "status": "UPCOMING",
+      "deliverable": "Signed LOIs from 2 pharma commercial partners.",
+      "budget_drawn": "$0 (Locked)",
+      "sf425_financial_report": "NOT YET DUE",
+      "next_due_date": "2026-12-31"
+    },
+    {
+      "quarter": "Q4 (Months 10-12)",
+      "milestone_name": "Final Technical Report & Phase II Escalation Package",
+      "status": "UPCOMING",
+      "deliverable": "Final NIH Technical Report & $1.5M Phase II Application.",
+      "budget_drawn": "$0 (Locked)",
+      "sf425_financial_report": "NOT YET DUE",
+      "next_due_date": "2027-03-31"
+    }
+  ],
+  "compliance_alerts": [
+    "Q2 SF-425 Federal Financial Report due on 2026-09-30.",
+    "Quarterly Progress Narrative ready for Signing Official (SO) review."
+  ]
+}

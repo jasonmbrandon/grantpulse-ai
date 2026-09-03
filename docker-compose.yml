@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  grantpulse-platform:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: grantpulse_ai_production
+    ports:
+      - "8000:8000"
+      - "4242:4242"
+    env_file:
+      - .env.example
+    restart: unless-stopped
+    volumes:
+      - .:/app

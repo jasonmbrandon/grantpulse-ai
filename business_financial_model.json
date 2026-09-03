@@ -1,0 +1,221 @@
+{
+  "timestamp": "2026-09-03T00:47:33.990182",
+  "business_name": "GrantPulse AI Commercial SaaS",
+  "model_type": "Hybrid SaaS Subscription + Contingency Success Fee",
+  "pricing_tiers": {
+    "starter": {
+      "name": "Starter Founder Plan",
+      "monthly_price": 499,
+      "annual_price": 4900,
+      "target_customer": "Early Seed Startups & Small Businesses (1-5 FTEs)",
+      "grant_coverage": "Federal SBIR/STTR + State Level Grants",
+      "proposal_builds_per_month": 3,
+      "openalex_citations_limit": 25,
+      "radar_alert_frequency": "Weekly",
+      "success_fee_option": "5% on Won Grants"
+    },
+    "growth": {
+      "name": "Growth Pro Plan",
+      "monthly_price": 1499,
+      "annual_price": 14500,
+      "target_customer": "Growth Stage Tech & Biotech Companies (5-25 FTEs)",
+      "grant_coverage": "Universal Grants (Federal, State, Foundation, Corporate, Global)",
+      "proposal_builds_per_month": 10,
+      "openalex_citations_limit": "Unlimited",
+      "radar_alert_frequency": "Daily Real-Time",
+      "success_fee_option": "3% on Won Grants"
+    },
+    "enterprise": {
+      "name": "Enterprise & Lab Plan",
+      "monthly_price": 3999,
+      "annual_price": 38000,
+      "target_customer": "University Labs, Accelerators & Institutional R&D",
+      "grant_coverage": "Universal + Custom RFPs & Private Foundation Submissions",
+      "proposal_builds_per_month": "Unlimited",
+      "openalex_citations_limit": "Unlimited",
+      "radar_alert_frequency": "Instant Real-Time",
+      "success_fee_option": "0% Success Fee (Pure SaaS)"
+    }
+  },
+  "unit_economics": {
+    "average_cac": "$850 (CMO Social Lead Radar Acquisition)",
+    "average_ltv": "$18,500 (14-Month Average Retention)",
+    "ltv_to_cac_ratio": "21.7x"
+  },
+  "year_1_milestones": {
+    "ending_mrr": "$211,767",
+    "ending_arr": "$2,541,204",
+    "total_active_subscribers": 233,
+    "cumulative_client_funding_secured": "$47,025,000"
+  },
+  "12_month_growth_trajectory": [
+    {
+      "month": "Month 1",
+      "subscribers": {
+        "starter": 9,
+        "growth": 3,
+        "enterprise": 1,
+        "total": 13
+      },
+      "financials": {
+        "mrr": "$12,987",
+        "arr": "$155,844",
+        "monthly_client_funding_won": "$275,000"
+      }
+    },
+    {
+      "month": "Month 2",
+      "subscribers": {
+        "starter": 15,
+        "growth": 5,
+        "enterprise": 2,
+        "total": 22
+      },
+      "financials": {
+        "mrr": "$22,978",
+        "arr": "$275,736",
+        "monthly_client_funding_won": "$825,000"
+      }
+    },
+    {
+      "month": "Month 3",
+      "subscribers": {
+        "starter": 22,
+        "growth": 8,
+        "enterprise": 2,
+        "total": 32
+      },
+      "financials": {
+        "mrr": "$30,968",
+        "arr": "$371,616",
+        "monthly_client_funding_won": "$1,100,000"
+      }
+    },
+    {
+      "month": "Month 4",
+      "subscribers": {
+        "starter": 31,
+        "growth": 12,
+        "enterprise": 3,
+        "total": 46
+      },
+      "financials": {
+        "mrr": "$45,454",
+        "arr": "$545,448",
+        "monthly_client_funding_won": "$1,650,000"
+      }
+    },
+    {
+      "month": "Month 5",
+      "subscribers": {
+        "starter": 41,
+        "growth": 17,
+        "enterprise": 3,
+        "total": 61
+      },
+      "financials": {
+        "mrr": "$57,939",
+        "arr": "$695,268",
+        "monthly_client_funding_won": "$2,200,000"
+      }
+    },
+    {
+      "month": "Month 6",
+      "subscribers": {
+        "starter": 53,
+        "growth": 22,
+        "enterprise": 4,
+        "total": 79
+      },
+      "financials": {
+        "mrr": "$75,421",
+        "arr": "$905,052",
+        "monthly_client_funding_won": "$3,025,000"
+      }
+    },
+    {
+      "month": "Month 7",
+      "subscribers": {
+        "starter": 66,
+        "growth": 28,
+        "enterprise": 4,
+        "total": 98
+      },
+      "financials": {
+        "mrr": "$90,902",
+        "arr": "$1,090,824",
+        "monthly_client_funding_won": "$3,850,000"
+      }
+    },
+    {
+      "month": "Month 8",
+      "subscribers": {
+        "starter": 81,
+        "growth": 35,
+        "enterprise": 5,
+        "total": 121
+      },
+      "financials": {
+        "mrr": "$112,879",
+        "arr": "$1,354,548",
+        "monthly_client_funding_won": "$4,950,000"
+      }
+    },
+    {
+      "month": "Month 9",
+      "subscribers": {
+        "starter": 97,
+        "growth": 43,
+        "enterprise": 5,
+        "total": 145
+      },
+      "financials": {
+        "mrr": "$132,855",
+        "arr": "$1,594,260",
+        "monthly_client_funding_won": "$5,775,000"
+      }
+    },
+    {
+      "month": "Month 10",
+      "subscribers": {
+        "starter": 115,
+        "growth": 52,
+        "enterprise": 6,
+        "total": 173
+      },
+      "financials": {
+        "mrr": "$159,327",
+        "arr": "$1,911,924",
+        "monthly_client_funding_won": "$6,600,000"
+      }
+    },
+    {
+      "month": "Month 11",
+      "subscribers": {
+        "starter": 134,
+        "growth": 61,
+        "enterprise": 6,
+        "total": 201
+      },
+      "financials": {
+        "mrr": "$182,299",
+        "arr": "$2,187,588",
+        "monthly_client_funding_won": "$7,700,000"
+      }
+    },
+    {
+      "month": "Month 12",
+      "subscribers": {
+        "starter": 155,
+        "growth": 71,
+        "enterprise": 7,
+        "total": 233
+      },
+      "financials": {
+        "mrr": "$211,767",
+        "arr": "$2,541,204",
+        "monthly_client_funding_won": "$9,075,000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "suite_name": "GrantPulse AI Complete Platform",
+  "version": "2.0 Full Production",
+  "timestamp": "2026-09-03T00:47:36.067678",
+  "total_modules": 7,
+  "all_passed": true,
+  "module_diagnostics": [
+    {
+      "module": "Multi-Agent Grant Writing Swarm (CrewAI + OpenAlex)",
+      "script": "grantpulse_swarm.py",
+      "status": "PASSED",
+      "duration_seconds": 1.56,
+      "verified_outputs": [
+        {
+          "file": "grant_proposal_output.json",
+          "exists": true,
+          "size_bytes": 6418
+        },
+        {
+          "file": "grant_proposal_document.md",
+          "exists": true,
+          "size_bytes": 3742
+        }
+      ]
+    },
+    {
+      "module": "Universal 5-Pillar Grant Discovery Radar (Federal, State, Foundation, Corporate, Global)",
+      "script": "grant_scanner_radar.py",
+      "status": "PASSED",
+      "duration_seconds": 1.26,
+      "verified_outputs": [
+        {
+          "file": "continuous_grant_radar_output.json",
+          "exists": true,
+          "size_bytes": 3730
+        }
+      ]
+    },
+    {
+      "module": "CMO Social Lead Generation Scanner (Agent-Reach Engine)",
+      "script": "agent_reach_grant_leads.py",
+      "status": "PASSED",
+      "duration_seconds": 0.46,
+      "verified_outputs": [
+        {
+          "file": "grant_leads_output.json",
+          "exists": true,
+          "size_bytes": 2315
+        }
+      ]
+    },
+    {
+      "module": "Commercial Subscription Strategy & Financial ARR Engine",
+      "script": "business_model_strategy.py",
+      "status": "PASSED",
+      "duration_seconds": 1.18,
+      "verified_outputs": [
+        {
+          "file": "business_financial_model.json",
+          "exists": true,
+          "size_bytes": 5760
+        }
+      ]
+    },
+    {
+      "module": "Administrative SAM.gov & Institutional Registration Checker",
+      "script": "registration_compliance_checker.py",
+      "status": "PASSED",
+      "duration_seconds": 0.45,
+      "verified_outputs": [
+        {
+          "file": "registration_compliance_output.json",
+          "exists": true,
+          "size_bytes": 1522
+        }
+      ]
+    },
+    {
+      "module": "Mock NIH Study Section Reviewer Panel Simulator",
+      "script": "grant_panel_simulator.py",
+      "status": "PASSED",
+      "duration_seconds": 1.19,
+      "verified_outputs": [
+        {
+          "file": "mock_study_section_output.json",
+          "exists": true,
+          "size_bytes": 5664
+        },
+        {
+          "file": "mock_study_section_summary_statement.md",
+          "exists": true,
+          "size_bytes": 2646
+        }
+      ]
+    },
+    {
+      "module": "Post-Award Compliance & Milestone Drawdown Tracker",
+      "script": "post_award_tracker.py",
+      "status": "PASSED",
+      "duration_seconds": 0.42,
+      "verified_outputs": [
+        {
+          "file": "post_award_tracking_output.json",
+          "exists": true,
+          "size_bytes": 2037
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-09-03T00:47:34.441348",
+  "company_name": "BioSynth AI",
+  "administrative_readiness_score": "100%",
+  "submission_clearance": "CLEARED FOR SUBMISSION",
+  "compliance_checklist": [
+    {
+      "registration": "SAM.gov Active Status",
+      "status": "ACTIVE & VERIFIED",
+      "expiration_date": "2027-04-15",
+      "is_compliant": true,
+      "notes": "Entity registration active with no exclusions flagged."
+    },
+    {
+      "registration": "Unique Entity ID (UEI)",
+      "status": "VERIFIED",
+      "value": "K9L2M4N6P8R1",
+      "is_compliant": true,
+      "notes": "Assigned 12-character SAM.gov UEI confirmed."
+    },
+    {
+      "registration": "CAGE Code",
+      "status": "VERIFIED",
+      "value": "7X89B",
+      "is_compliant": true,
+      "notes": "DLA CAGE code validated for federal contracting."
+    },
+    {
+      "registration": "SBA Company Registry",
+      "status": "ELIGIBLE",
+      "fte_count": 4,
+      "us_ownership": "100%",
+      "is_compliant": true,
+      "notes": "Meets small business threshold (<500 FTEs, 100% US owned)."
+    },
+    {
+      "registration": "eRA Commons & Research.gov Linkage",
+      "status": "LINKED",
+      "is_compliant": true,
+      "notes": "Signing Official (SO) and Principal Investigator (PI) roles linked."
+    }
+  ],
+  "required_next_steps": [
+    "Maintain SAM.gov annual renewal before 2027-04-15.",
+    "Ensure Principal Investigator (PI) eRA Commons ID is entered on Form SF-424."
+  ]
+}
